@@ -7,11 +7,12 @@ User can create Task(data) and store them in blockchain and delete/marked after 
 
 
 
+
 ### Techstack
 
-Ganache (private/local blockchain)
-Metamask (store account address and ether )
-Web3 Js
-Html
-Css
-Truffle(testing framework)
+- Ganache (private/local blockchain)
+- Metamask (store account address and ether )
+- Web3 Js
+- Html
+- Css
+- Truffle(testing framework)
